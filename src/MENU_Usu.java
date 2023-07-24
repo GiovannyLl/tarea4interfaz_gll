@@ -140,8 +140,8 @@ public class MENU_Usu extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(null,"LLENE TODOS LOS CAMPOS");
      
     }else{
-         if (Usuario.equals("Brayan123") && Contraseña.equals("brayan567")) {
-             JOptionPane.showMessageDialog(null,"---¡BIENVENIDO!--BRAYAN--");
+         if (Usuario.equals("giovanny") && Contraseña.equals("12345678")) {
+             JOptionPane.showMessageDialog(null,"---¡BIENVENIDO!--Giovanny--");
             Interfaz2 in = new Interfaz2();
               in.show();
          } else {

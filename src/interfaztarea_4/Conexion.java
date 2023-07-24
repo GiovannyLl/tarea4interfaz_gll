@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  * @author USER
  */
 public class Conexion {
-    String bd= "interfaztr4";
+    String bd= "dbtarea4";
     String url="jdbc:mysql://localhost:3306/";
     String usuario="root";
     String password="root";
